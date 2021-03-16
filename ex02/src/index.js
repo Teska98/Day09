@@ -8,4 +8,4 @@
 myParameter(true);
 myParameter(false);
 // Only change code above this line
-module.exports = myTrueBoolean;
+module.exports = myFunction;
