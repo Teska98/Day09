@@ -1,6 +1,6 @@
 function switchCaseSequential(num){
    // Write code below this line
- switch(){
+ switch(num){
   case 1:
   case 2:
   case 3:
