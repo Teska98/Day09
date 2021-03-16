@@ -1,6 +1,7 @@
 function switchCase(letter){
    // Write code below this line
-  case a:
+ switch(letter){
+   case a:
    var animals = "antelope";
    break;
   case b:
@@ -11,7 +12,8 @@ function switchCase(letter){
    break;
   default:
    animals = "stuff";
-   break
+   break;
+ }
   // Write code above this line
   return animals;
 }
