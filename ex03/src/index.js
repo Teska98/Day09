@@ -11,4 +11,4 @@ myEqualFunction("23");
 myEqualFunction(˙23˙);
 myEqualFunction("text");
 // Only change code above this line
-module.exports = myTrueBoolean;
+module.exports = myEqualFunction;
