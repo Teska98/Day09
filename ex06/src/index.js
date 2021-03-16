@@ -18,4 +18,4 @@ comparisonToEqual(5);
 comparisonToEqual(17);
 comparisonToEqual(21);
 // Only change code above this line
-module.exports = myTrueBoolean;
+module.exports = comparisonToEqual;
